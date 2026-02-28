@@ -68,11 +68,6 @@ OTDR veri inceleme ve raporlama
 
 _____________________________________________________________
 
-
-https://youtu.be/p_F_u3HpFXM
-
-https://youtube.com/watch?v=0IGN_3g3UDw
-
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/handeveloper1)
